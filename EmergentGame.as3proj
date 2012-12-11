@@ -17,6 +17,7 @@
   <classpaths>
     <class path="src" />
     <class path="..\phantom-light\src" />
+    <class path="G:\FlashDeveloper_Projects\phantom-light-master\src" />
   </classpaths>
   <!-- Build options -->
   <build>
